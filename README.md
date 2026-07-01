@@ -1,4 +1,4 @@
-# ecommerce-sales-customer-analytics-dashboard
+# Ecommerce-Sales-Customer-Analytics-Dashboard
 Sales and customer analytics dashboard using Python and Power BI.
 
 # Overview
