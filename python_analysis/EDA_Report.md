@@ -57,7 +57,17 @@ The dataset contains e-commerce transactions with:
 
 ## Business Insights
 
-To be updated after analysis execution.
+
+This section will contain:
+
+- Top Performing Categories
+- Low Profit Categories
+- Top 120 Customers
+- Best Performing Regions
+- Preferred Payment Methods
+- Seasonal Sales Trends
+- Profitability Insights
+
 
 ## Conclusion
 
