@@ -1,19 +1,32 @@
-# Ecommerce-Sales-Customer-Analytics-Dashboard
-Sales and customer analytics dashboard using Python and Power BI.
+# E-Commerce Sales & Customer Analytics Dashboard
 
-# Overview
+## Overview
 
-This project analyzes e-commerce transaction data to evaluate sales performance, profitability, and customer behavior using Python and Power BI.
+This project analyzes e-commerce transaction data to evaluate sales performance, profitability, customer behavior, and regional trends using Python and Power BI.
 
-# Objectives
+## Dataset
 
-- Analyze sales trends
-- Track profit performance
-- Identify high-value customers
-- Monitor regional sales performance
-- Discover low-profit product categories
+Custom E-Commerce Sales Dataset (2023–2025)
 
-# Technologies Used
+### Dataset Features
+
+- Customer Information
+- Product Categories
+- Sales Transactions
+- Regional Data
+- Profit Metrics
+- Payment Methods
+
+## Analysis Goals
+
+- Sales Trend Analysis
+- Profitability Analysis
+- Customer Analytics
+- Regional Performance
+- Category Performance
+- Payment Method Analysis
+
+## Technologies Used
 
 - Python
 - Pandas
@@ -21,10 +34,11 @@ This project analyzes e-commerce transaction data to evaluate sales performance,
 - Power BI
 - Excel
 
-# Key Metrics
+## Dashboard KPIs
 
 - Total Sales
 - Total Profit
 - Profit Margin
-- Customer Segmentation
+- Top Customers
+- Best-Selling Categories
 - Regional Performance
